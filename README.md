@@ -1,6 +1,11 @@
 # collaborative-intelligence-workshop.github.io
 
 
+## Credit
+
+We borrow the overall framework from:  https://github.com/gp-seminar-series/neurips-2024
+
+
 ## PZH Note: How to Set Up
 
 1. Clone this repo:
