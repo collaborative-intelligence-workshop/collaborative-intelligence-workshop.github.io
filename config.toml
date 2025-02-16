@@ -11,6 +11,6 @@ highlight_code = false
 smart_punctuation = true
 
 [extra]
-title = {tagline = "RSS workshop on", title = "Collaborative Intelligence", subtitles = ["Los Angeles, California, United States", "June 23, 2025"]}
+title = {tagline = "RSS workshop on", title = "Collaborative Intelligence", subtitles = ["Los Angeles, California, USA", "June 23, 2025"]}
 banner = {extension = "svg", size = "fit-height", fade = true}
 header_pages = [{name = "Home", url = "/#home"},{name = "Schedule", url = "/#schedule"}]

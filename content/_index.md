@@ -15,12 +15,12 @@ Our proposed workshop will explore the latest advances, challenges, and opportun
 {{ grid(
     text = [
         ["Tapomayukh Bhattacharjee","Cornell University"],
-        ["Jonathan Kao","University of Califoria, Los Angeles"],
+        ["Jonathan Kao","University of California, Los Angeles"],
         ["Maggie Collier","Carnegie Mellon University"],
         ["Jianlan Luo","University of California, Berkeley"],
         ["Guy Rosman","Toyota Research Institute"],
         ["Mathew Walter", "Toyota Technological Institute at Chicago"],
-        ["Ayse Kucukyilmaz", "University of Nottinghan"],
+        ["Ayse Kucukyilmaz", "University of Nottingham"],
     ],
     urls = [
         "https://sites.google.com/site/tapomayukh/home/",
@@ -42,29 +42,21 @@ Our proposed workshop will explore the latest advances, challenges, and opportun
 
 # Schedule
 
-| Time (Canada) | Event |
-|---------------|-------|
-| 09:00 - 09:30 | **Introduction and Opening Remarks: Andreas Krause** {{ small_button(name = 'slides', url = 'slides/krause.pdf') }} |
-| 09:30 - 10:00 | Invited Talk: Mark van der Wilk - _Open Problems in Gaussian Process Approximation and Benchmarking_  {{ small_button(name = 'slides', url = 'slides/vanderwilk.pdf') }} |
-| 10:00 - 10:30 | **Discussion Break** |
-| 10:30 - 11:00 | Invited Talk: Esther Rolf - _We need to talk (more) about uncertainty in geospatial machine learning_ {{ small_button(name = 'slides', url = 'slides/rolf.pdf') }} |
-| 11:00 - 11:10 | Contributed Talk: Mathieu Alain - _Graph Classification Gaussian Processes via Hodgelet Spectral Features_ |
-| 11:10 - 11:20 | Contributed Talk: Taiwo Adebiyi - _Gaussian Process Thompson Sampling via Rootfinding_ |
-| 11:20 - 11:30 | Contributed Talk: Freddie Bickford Smith - _Rethinking Aleatoric and Epistemic Uncertainty_ |
-| 11:30 - 12:30 | **Lunch and Poster Session Setup** |
-| 12:30 - 12:40 | Contributed Talk: Patrick O'Hara - _Distributionally Robust Optimisation with Bayesian Ambiguity Sets_ |
-| 12:40 - 12:50 | Contributed Talk: Joachim Schaeffer - _Lithium-Ion Battery System Health Monitoring and Resistance-Based Fault Analysis from Field Data Using Recursive Spatiotemporal Gaussian Processes_ |
-| 12:50 - 13:00 | Contributed Talk: Rafael Oliveira - _Variational Search Distributions_ |
-| 13:00 - 13:30 | Invited Talk: Roman Garnett - _What I learned while writing the BayesOpt book_ {{ small_button(name = 'slides', url = 'slides/garnett.pdf') }} |
-| 13:30 - 14:00 | **Discussion Break** |
-| 14:00 - 14:30 | Invited Talk: Jacob R. Garnder - _Bayesian optimization needs better deep learning_ {{ small_button(name = 'slides', url = 'slides/gardner.pdf') }} |
-| 14:30 - 15:00 | Lightning Talks: Joshua Hang Sai Ip, Yibo Jiang, Dingyang Chen, Guiomar Pescador-Barrios, Sebastian W. Ober, Conor Heins, Richard Bergna, Martin Trapp |
-| 15:00 - 16:00 | **Poster Session** |
-| 16:00 - 16:30 | Invited Talk: Virginia Aglietti - _FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch_ {{ small_button(name = 'slides', url = 'slides/aglietti.pdf') }} |
-| 16:30 - 17:25 | **Panel Discussion** | 
-| 17:25 - 17:30 | **Closing Remarks** |
-
-
+| Time (PDT)    | Event                                      |
+|---------------|--------------------------------------------|
+| 08:30 - 09:15 | Opening Remarks + Paper Spotlight Talks 1  |
+| 09:15 - 10:00 | Invited Talk 1                             |
+| 10:00 - 10:30 | Coffee Break + Posters                     |
+| 10:30 - 11:15 | Invited Talk 2                             |
+| 11:15 - 12:00 | Invited Talk 3                             |
+| 12:00 - 12:30 | Invited Talk 4                             |
+| 12:30 - 14:00 | Lunch Break                                |
+| 14:00 - 14:45 | Invited Talk 5                             |
+| 14:45 - 15:30 | Invited Talk 6                             |
+| 15:30 - 16:00 | Coffee Break + Interactive Demos           |
+| 16:00 - 16:45 | Invited Talk 7                             |
+| 16:45 - 17:45 | Panel Discussion                           |
+| 17:45 - 18:30 | Awards + Interactive Demos                 |
 
 {{ new_block() }}
 
@@ -97,14 +89,20 @@ Our proposed workshop will explore the latest advances, challenges, and opportun
     image_dir = "organizers") }}
 
 
-{{ new_block() }}
+[//]: # ({{ new_block&#40;&#41; }})
 
 
-# Accepted Workshop Papers
+[//]: # (# Accepted Workshop Papers)
 
-{{ table(
-    data = "papers.csv", 
-    columns = ["Title","Authors"],
-    button_names = ["paper"], 
-    button_data_columns = [2], 
-    button_output_columns = [1]) }}
+[//]: # ()
+[//]: # ({{ table&#40;)
+
+[//]: # (    data = "papers.csv", )
+
+[//]: # (    columns = ["Title","Authors"],)
+
+[//]: # (    button_names = ["paper"], )
+
+[//]: # (    button_data_columns = [2], )
+
+[//]: # (    button_output_columns = [1]&#41; }})
