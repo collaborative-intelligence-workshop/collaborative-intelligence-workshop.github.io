@@ -24,4 +24,4 @@ git clone --recurse-submodules https://github.com/collaborative-intelligence-wor
 
 1. Install Zola following:  https://www.getzola.org/documentation/getting-started/installation/
     * In mac, in short, use `brew install zola` (it takes about 60 min in my mac...)
-2. 
+2. `zola serve` to edit and view locally.
