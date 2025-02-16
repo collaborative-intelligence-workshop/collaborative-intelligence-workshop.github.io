@@ -1,17 +1,13 @@
 +++
-title = "Virtual Seminar Series on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems"
+title = "Collaborative Intelligence: New Horizons in Shared Autonomy"
 +++
 
 
-# [Announcement: NeurIPS 2024 Workshop<br><span class="h3">December 14, 2024</span>](/neurips-2024/)
+# [Announcement: RSS 2025 Workshop<br><span class="h3">Wednesday, June 25, 2025</span>](/neurips-2024/)
 
 ## Abstract 
+Our proposed workshop will explore the latest advances, challenges, and opportunities in human-robot collaboration where control is shared between human operators and autonomous systems. The workshop will focus on three themes: (1) adaptive manipulation, (2) intelligent mobility, and (3) human-centric interfaces, encompassing both foundational research and cutting-edge applications. By examining emerging technologies, user interface strategies, evaluation metrics, and ethical considerations, the workshop aims to foster a deeper understanding of how best to combine human insight and machine capabilities for real-world impact. We welcome a diverse range of participants, including academic researchers, industry practitioners, graduate students, and policymakers with an interest in shared autonomy. 
 
-Recent advances in ML and AI have led to impressive achievements, yet models often struggle to express uncertainty, and more importantly, make decisions that account for uncertainty. This hinders the deployment of AI models in critical applications, ranging from scientific discovery, where uncertainty quantification is essential, to real-world scenarios with unpredictable and dynamic environments, where models may encounter data vastly different from their training sets.
-
-Through the use of probability, Bayesian methods offer a powerful framework to address these limitations by quantifying uncertainty, incorporating prior knowledge, enabling adaptive decision-making and information gathering in uncertain environments. These approaches have led to significant progress and success in relevant fields, tackling critical problems such as drug discovery, hyperparameter tuning and environmental monitoring. However, challenges remain in both theory and practice, such as establishing performance guarantees and scaling up these methods to handle the complexity and dimensionality of larger data and models. On the other hand, the development of frontier models (e.g., based on large language models) presents new opportunities to enhance Bayesian methods with stronger priors and tools not previously available.
-
-This workshop aims to bring together researchers from different but closely related areas, including Bayesian optimization, active learning, uncertainty quantification, Gaussian processes, spatiotemporal modeling, and sequential experimental design. We seek to foster a vibrant exchange of ideas, showcase successful applications, and prompt fruitful discussion to collaboratively tackle the emerging challenges and shape the future directions of Bayesian decision-making and uncertainty in the new era of ML and AI.
 
 
 {{ new_block() }}
@@ -31,17 +27,25 @@ This workshop aims to bring together researchers from different but closely rela
 
 {{ grid(
     text = [
-        ["Alexander Terenin","Cornell University"],
-        ["Natalie Maus","University of Pennsylvania"],
-        ["Renato Berlingheiri","MIT"],
-        ["Zi Wang","Google Research"],
+        ["Yuchen Cui","UCLA"],
+        ["Raayan Dhar","UCLA"],
+        ["Xu (Kristen) Yan","UCLA"],
+        ["Zhenghao Peng","UCLA"],
+        ["Priya Sundaresan","Stanford"],
+        ["Huihan Liu","UT Austin"],
+        ["Bolei Zhou","UCLA"],
+        ["Yuke Zhu","UT Austin"],
     ],
     urls = [
-        "https://avt.im/",
-        "https://sites.google.com/seas.upenn.edu/natalie-maus/home/",
-        "https://renatoberlinghieri.github.io/",
-        "https://ziw.mit.edu/",
+        "https://yuchencui.cc/",
+        "https://raayandhar.github.io/",
+        "https://seas.ucla.edu/~kao/people_dir/xu_yan.html",
+        "https://pengzhenghao.github.io/",
+        "https://priyasundaresan.github.io/",
+        "https://huihanl.github.io/",
+        "https://boleizhou.github.io/",
+        "https://yukezhu.me/",
     ],
     image_dir = "organizers") }}
 
-{{ button(name = "Alumni", url = "organizers") }}
+[//]: # ({{ button&#40;name = "Alumni", url = "organizers"&#41; }})

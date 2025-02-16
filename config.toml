@@ -1,4 +1,4 @@
-base_url = "https://gp-seminar-series.github.io"
+base_url = "https://collaborative-intelligence-workshop.github.io"
 compile_sass = true
 build_search_index = false
 generate_feeds = false

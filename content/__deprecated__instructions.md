@@ -8,8 +8,8 @@ title = "Virtual Seminar Series on Gaussian Processes, Spatiotemporal Modeling, 
 
 Seminars take place on **{{ day() }}** at **{{ time() }}** on Zoom, and are also livestreamed on YouTube.
 
-- **Zoom**. Please register in advance by signing up for our mailing list using the [Google Group](/registration). The Zoom link will be sent in the weekly email.
-- **YouTube**. Seminars can be accessed at the [YouTube channel](/youtube) (no registration required), which also includes past recorded seminars.
+- **Zoom**. Please register in advance by signing up for our mailing list using the [Google Group](/__deprecated__registration). The Zoom link will be sent in the weekly email.
+- **YouTube**. Seminars can be accessed at the [YouTube channel](/__deprecated__youtube) (no registration required), which also includes past recorded seminars.
 
 ## Format 
 
