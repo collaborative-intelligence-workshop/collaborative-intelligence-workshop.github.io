@@ -4,7 +4,7 @@ title = "Collaborative Intelligence: New Horizons in Shared Autonomy"
 
 # Abstract
 
-Our proposed workshop will explore the latest advances, challenges, and opportunities in human-robot collaboration where control is shared between human operators and autonomous systems. The workshop will focus on three themes: (1) adaptive manipulation, (2) intelligent mobility, and (3) human-centric interfaces, encompassing both foundational research and cutting-edge applications. By examining emerging technologies, user interface strategies, evaluation metrics, and ethical considerations, the workshop aims to foster a deeper understanding of how best to combine human insight and machine capabilities for real-world impact. We welcome a diverse range of participants, including academic researchers, industry practitioners, graduate students, and policymakers with an interest in shared autonomy. 
+Our proposed workshop will explore the latest advances, challenges, and opportunities in human-robot collaboration where control is shared between human operators and autonomous systems. The workshop will focus on three themes: (1) adaptive manipulation, (2) intelligent mobility, and (3) human-centric interfaces, encompassing both foundational research and cutting-edge applications. By examining emerging technologies, user interface strategies, evaluation metrics, and ethical considerations, the workshop aims to foster a deeper understanding of how best to combine human insight and machine capabilities for real-world impact. We welcome a diverse range of participants, including academic researchers, industry practitioners, graduate students, and policymakers with an interest in shared autonomy.
 
 {{ new_block() }}
 
@@ -14,18 +14,22 @@ Our proposed workshop will explore the latest advances, challenges, and opportun
 
 {{ grid(
     text = [
-        ["Roman Garnett","Washington University in St. Louis and Uber"], 
-        ["Jacob R. Gardner","University of Pennsylvania"],
-        ["Virginia Aglietti","Google DeepMind"],
-        ["Esther Rolf","University of Colorado Boulder"],
-        ["Mark van der Wilk","University of Oxford"],
+        ["Tapomayukh Bhattacharjee","Cornell University"],
+        ["Jonathan Kao","University of Califoria, Los Angeles"],
+        ["Maggie Collier","Carnegie Mellon University"],
+        ["Jianlan Luo","University of California, Berkeley"],
+        ["Guy Rosman","Toyota Research Institute"],
+        ["Mathew Walter", "Toyota Technological Institute at Chicago"],
+        ["Ayse Kucukyilmaz", "University of Nottinghan"],
     ],
     urls = [
-        "https://www.cse.wustl.edu/~garnett/",
-        "https://jacobrgardner.github.io",
-        "https://virgiagl.github.io/",
-        "https://estherrolf.com",
-        "https://mvdw.uk",
+        "https://sites.google.com/site/tapomayukh/home/",
+        "https://www.kaolab.org/people/team",
+        "https://collierma.github.io/",
+        "https://people.eecs.berkeley.edu/~jianlanluo/",
+        "https://www.tri.global/about-us/dr-guy-rosman",
+        "https://home.ttic.edu/~mwalter/",
+        "https://people.cs.nott.ac.uk/pszak1/",
     ],
     image_dir = "speakers",
     narrow = true) }}
@@ -81,74 +85,16 @@ Our proposed workshop will explore the latest advances, challenges, and opportun
         ["Yuke Zhu","UT Austin"],
     ],
     urls = [
-        "https://yuchencui.cc/",
-        "https://raayandhar.github.io/",
+        "https://yuchencui.cc",
+        "https://raayandhar.github.io",
         "https://seas.ucla.edu/~kao/people_dir/xu_yan.html",
-        "https://pengzhenghao.github.io/",
-        "https://priyasundaresan.github.io/",
-        "https://huihanl.github.io/",
-        "https://boleizhou.github.io/",
-        "https://yukezhu.me/",
+        "https://pengzhenghao.github.io",
+        "https://priyasundaresan.github.io",
+        "https://huihanl.github.io",
+        "https://boleizhou.github.io",
+        "https://yukezhu.me",
     ],
     image_dir = "organizers") }}
-
-
-
-{{ new_block() }}
-
-
-
-# Advisory Committee
-
-{{ grid(
-    text = [
-        ["Eytan Bakshy","Meta"],
-        ["David Bindel","Cornell University"],
-        ["Tamara Broderick","MIT"],
-        ["Carl Henrik Ek","University of Cambridge"],
-        ["Seth Flaxman","University of Oxford"],
-        ["Emtiyaz Khan","RIKEN"],
-        ["Andreas Krause","ETH Zürich"],
-        ["Jasper Snoek","Google DeepMind"],
-    ],
-    urls = [
-        "https://eytan.github.io",
-        "https://www.cs.cornell.edu/~bindel/",
-        "https://tamarabroderick.com/",
-        "http://carlhenrik.com/",
-        "https://sethrf.com/",
-        "https://emtiyaz.github.io/",
-        "https://las.inf.ethz.ch/krausea",
-        "https://research.google/people/jasper-snoek/",
-    ],
-    image_dir = "advisors") }}
-
-
-
-{{ new_block() }}
-
-
-
-# Sponsors
-
-{{ grid(
-    text = [
-        ["Google Research"],
-        ["Meta"],
-    ],
-    urls = [
-        "https://research.google/",
-        "https://ai.meta.com/",
-    ],
-    images = [
-        "sponsors/google-research.svg",
-        "sponsors/meta.svg"
-    ],
-    dark_invert = [
-        false,
-        true
-    ]) }}
-
 
 
 {{ new_block() }}
